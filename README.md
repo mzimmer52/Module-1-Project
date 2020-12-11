@@ -24,7 +24,7 @@ Main questions to investigate:
 When entering the film industry, Microsoft should not be afraid to spend fair amounts of money during the production process. As the below graph shows, films that invest more in their movies are more likely to get generate higher amounts of revenue. This can also be attributed to the fact that movies with higher budgets usually will allocate some of this money towards advertising, and in turn more people will end coming to the movies to see it.
 
 
-<img src="Image 1.png"> 
+<img src="Picture/Image 1.png"> 
 
 
 
@@ -32,7 +32,7 @@ However, not all movies that have high budgets are prone to make lots of money. 
 
 
 
-<img src="ROI Data.png">
+<img src="Picture/ROI Data.png">
 
 
 If we take a look at the four movies above, we can see that they each ended up making 400 times or more of the money they put in. Microsoft should watch and thouroughly study each of the these movies. Do the movies look as if they were low budget? What do they all have in common? Adding on, Microsoft should contact each of the above directors and production teams to recieve some pointers.
@@ -44,14 +44,14 @@ If we take a look at the four movies above, we can see that they each ended up m
 Most of the data surrounding run times for the top 100 rated movies shows that these movies generally fall between 110 and 130 minutes. Adding on, there is a slight positive correlation between runtime and average rating. There are a few outliers, which could be because those who watched a long movie but did not enjoy it are prone to give a worse rating than if the movie was normal length.
 
 
-<img src="run time scatter.png"> 
+<img src="Picture/run time scatter.png"> 
 
 
 # Genre
 
 In terms of genre, it was apparent that out of the top 100 rated movies, three genres were the most popular. These genres were drama, adventure, and comedy. 
 
-<img src="Unknown-1.png"> 
+<img src="Picture/bargraph.png"> 
 
 
 
@@ -66,7 +66,7 @@ Many of the same types of data analysis were done through the information reciev
 A movies given ratings (R, PG-13, etc.) is a very important factor of each movie, and it was missing from the data provided. With this data given to us, it was easy to see the ratings that generally had the best ROI, average rating, and so on. 
 
 
-<img src="Unknown-2.png"> 
+<img src="Picture/piechart.png"> 
 
 
 Out of the most popular movies obtained from 2015 to 2020, it was obvious that people seemed to enjoy movies rated R or PG-13 better than moves rated PG. Some reasons for this could be that PG movies are usually targeted towards a younger and smaller audience, or that R and PG-13 movies are able to contain more polarizing content that will either make an audience love or hate the movie (move toward both extremes).
@@ -74,14 +74,20 @@ Out of the most popular movies obtained from 2015 to 2020, it was obvious that p
 
 In terms of return on investment, movies that were rated "R" tended to have a higher mean ROI (Revenue/Budget) compared to movies rated PG and PG-13.
 
-<img src="Unknown-6.png"> 
+<img src="Picture/Ratings_ROI.png"> 
 
 
 ## Runtime
 
 imdb.com also included information on runtime for each of the popular movies selected from 2015-2020. More data analysis was done through the runtime data to see if it conveyed the same message or went against the conclusions made on runtime earlier. 
 
-<img src="runtime box.png"> <img src="Unknown-4.png"> <img src="Unknown-5.png"> 
+
+
+
+<img src="Picture/runtime box.png"> <img src="Picture/budget_revenue.png"> <img src="Picture/runtime_revenue.png"> 
+
+
+
 
 
 As seen above, the most popular run times for the most popular movies off of imdb mirror the results obtained earlier. The most common runtimes also seem to be between 110 and 130 minutes. This result can also be examined through the histogram titled "Common Runtimes". Lastly, runtime was compared to return on investment for each movie. While there seems to be a slight correlation, I would not suggest that a longer movie results in an increased ROI. 
